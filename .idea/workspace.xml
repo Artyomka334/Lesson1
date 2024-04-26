@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="Lesson3 practice">
-      <change afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/LoadWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/WorkerFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_worker.xml" afterDir="false" />
+    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="Lesson4 practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MireaProject/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MireaProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MireaProject/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,12 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712689532761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson4 practice">
+      <option name="closed" value="true" />
+      <created>1712863095514</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712863095514</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Lesson2" />
     <MESSAGE value="Lesson3 practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson3 practice" />
+    <MESSAGE value="Lesson4 practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4 practice" />
   </component>
 </project>
