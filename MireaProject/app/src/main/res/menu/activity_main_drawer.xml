@@ -25,8 +25,16 @@
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Web View" />
         <item
-            android:id="@+id/nav_worker_fragment"
+            android:id="@+id/nav_light_sensor"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Worker" />
+            android:title="Light Sensor" />
+        <item
+            android:id="@+id/nav_camera_sensor"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Camera Sensor" />
+        <item
+            android:id="@+id/nav_voice"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Voice Sensor" />
     </group>
 </menu>

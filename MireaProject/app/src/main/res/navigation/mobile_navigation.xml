@@ -36,8 +36,20 @@
         tools:layout="@layout/fragment_web_view" />
 
     <fragment
-        android:id="@+id/nav_worker_fragment"
-        android:name="com.mirea.kachalovaa.mireaproject.WorkerFragment"
-        android:label="WorkerFragment"
-        tools:layout="@layout/fragment_worker" />
+        android:id="@+id/nav_light_sensor"
+        android:name="com.mirea.kachalovaa.mireaproject.LightSensor"
+        android:label="LightSensor"
+        tools:layout="@layout/fragment_light_sensor" />
+
+    <fragment
+        android:id="@+id/nav_camera_sensor"
+        android:name="com.mirea.kachalovaa.mireaproject.CameraSensor"
+        android:label="CameraSensor"
+        tools:layout="@layout/fragment_camera_sensor" />
+
+    <fragment
+        android:id="@+id/nav_voice"
+        android:name="com.mirea.kachalovaa.mireaproject.VoiceFragment"
+        android:label="VoiceFragment"
+        tools:layout="@layout/fragment_voice" />
 </navigation>
