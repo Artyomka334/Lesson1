@@ -52,4 +52,16 @@
         android:name="com.mirea.kachalovaa.mireaproject.VoiceFragment"
         android:label="VoiceFragment"
         tools:layout="@layout/fragment_voice" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.mirea.kachalovaa.mireaproject.ProfileFragment"
+        android:label="ProfileFragment"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_work_with_files"
+        android:name="com.mirea.kachalovaa.mireaproject.WorkWithFiles"
+        android:label="WorkWithFilesFragment"
+        tools:layout="@layout/fragment_work_with_files" />
 </navigation>

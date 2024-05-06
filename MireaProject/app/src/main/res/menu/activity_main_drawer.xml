@@ -36,5 +36,13 @@
             android:id="@+id/nav_voice"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Voice Sensor" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_work_with_files"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Work With Files" />
     </group>
 </menu>
