@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="Lesson4 practice">
+    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="Mirea project lesson 5 updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,13 +84,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712863095514</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson5 practice">
+      <option name="closed" value="true" />
+      <created>1714160244900</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714160244900</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mirea project lesson 5 updated">
+      <option name="closed" value="true" />
+      <created>1714160405092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714160405092</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Lesson2" />
     <MESSAGE value="Lesson3 practice" />
     <MESSAGE value="Lesson4 practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson4 practice" />
+    <MESSAGE value="Lesson5 practice" />
+    <MESSAGE value="Mirea project lesson 5 updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mirea project lesson 5 updated" />
   </component>
 </project>
