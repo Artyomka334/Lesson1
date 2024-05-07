@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531060499510",
+    "project_id": "auth-test-7aeb1",
+    "storage_bucket": "auth-test-7aeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531060499510:android:e054c974617847eb526497",
+        "android_client_info": {
+          "package_name": "com.mirea.kachalovaa.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3HV1tMlR66HsiZasz76xauFDQmZJt6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
