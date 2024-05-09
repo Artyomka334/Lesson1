@@ -44,5 +44,9 @@
             android:id="@+id/nav_work_with_files"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Work With Files" />
+        <item
+            android:id="@+id/nav_places"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Places" />
     </group>
 </menu>

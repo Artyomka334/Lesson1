@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        app:cardCornerRadius="5dp"
+        android:backgroundTint="@android:color/holo_green_dark"
+        android:layout_centerInParent="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingHorizontal="15dp"
+            android:paddingVertical="10dp">
+
+            <TextView
+                android:id="@+id/place"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Университет"
+                android:textColor="@color/white"
+                android:textSize="17sp"
+                android:textAlignment="textStart"
+                android:textAllCaps="true"/>
+
+            <TextView
+                android:id="@+id/address"
+                android:layout_below="@id/place"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Адрес"
+                android:textColor="@color/white"
+                android:textSize="17sp"
+                android:textAlignment="textStart"/>
+
+            <TextView
+                android:layout_marginTop="15dp"
+                android:layout_below="@id/address"
+                android:id="@+id/description"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Описание места"
+                android:textColor="@color/white"
+                android:textSize="19sp"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

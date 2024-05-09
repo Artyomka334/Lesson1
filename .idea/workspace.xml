@@ -4,15 +4,70 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="MireaProject 6">
-      <change afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/AuthActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/access.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/activity_auth.xml" afterDir="false" />
+    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="Practice 7 and MireaProject 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MireaProject/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/androidTest/java/com/mirea/kachalovaa/mireaproject/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/androidTest/java/com/mirea/kachalovaa/mireaproject/ExampleInstrumentedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/AuthActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/AuthActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/CameraSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/CameraSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/DataFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/DataFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/LightSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/LightSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ProfileFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/VoiceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/VoiceFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/WebViewFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/WebViewFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/WorkWithFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/WorkWithFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/gallery/GalleryFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/gallery/GalleryFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/gallery/GalleryViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/gallery/GalleryViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/home/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/home/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/home/HomeViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/home/HomeViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/slideshow/SlideshowFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/slideshow/SlideshowFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/slideshow/SlideshowViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/java/com/mirea/kachalovaa/mireaproject/ui/slideshow/SlideshowViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_menu_camera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_menu_camera.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_menu_gallery.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_menu_gallery.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_menu_slideshow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/ic_menu_slideshow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/drawable/side_nav_bar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/activity_auth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/activity_auth.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/app_bar_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/app_bar_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_camera_sensor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_camera_sensor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_gallery.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_gallery.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_light_sensor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_light_sensor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_slideshow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_slideshow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_voice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_voice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_web_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_web_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_work_with_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/fragment_work_with_files.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/nav_header_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/layout/nav_header_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/menu/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/values-land/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/values-w1240dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/values-w600dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/app/src/test/java/com/mirea/kachalovaa/mireaproject/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/app/src/test/java/com/mirea/kachalovaa/mireaproject/ExampleUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MireaProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/gradle.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MireaProject/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaProject/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MireaProject/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715031743617</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Practice 7 and MireaProject 7">
+      <option name="closed" value="true" />
+      <created>1715109305354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715109305354</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +198,7 @@
     <MESSAGE value="Mirea project lesson 5 updated" />
     <MESSAGE value="Practice 6" />
     <MESSAGE value="MireaProject 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="MireaProject 6" />
+    <MESSAGE value="Practice 7 and MireaProject 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice 7 and MireaProject 7" />
   </component>
 </project>

@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow,
                 R.id.nav_data, R.id.nav_web_view, R.id.nav_light_sensor,
                 R.id.nav_camera_sensor, R.id.nav_voice, R.id.nav_profile,
-                R.id.nav_work_with_files)
+                R.id.nav_work_with_files, R.id.nav_places)
                 .setOpenableLayout(drawer)
                 .build();
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
