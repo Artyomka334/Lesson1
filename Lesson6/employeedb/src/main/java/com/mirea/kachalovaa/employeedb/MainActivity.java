@@ -26,26 +26,6 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
         AppDatabase db = App.getInstance().getDatabase();
-//        superheroDao superheroDao = db.superheroDao();
-//        superhero superhero = new superhero();
-//        superhero.id = 1;
-//        superhero.name = "John Smith";
-//        superhero.salary = 10000;
-//
-//        // запись сотрудников в базу
-//        superheroDao.insert(superhero);
-//
-//        // Загрузка всех работников
-//        List<superhero> superheros = superheroDao.getAll();
-//
-//        // Получение определенного работника с id = 1
-//        superhero = superheroDao.getById(1);
-//
-//        // Обновление полей объекта
-//        superhero.salary = 20000;
-//        superheroDao.update(superhero);
-//
-//        Log.d("DATABASE SIGNAL", superhero.name + " " + superhero.salary);
 
         SuperheroDao superheroDao = db.superheroDao();
         Superhero superhero = new Superhero();
