@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678285624708",
+    "project_id": "mushroomfinder-f558b",
+    "storage_bucket": "mushroomfinder-f558b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678285624708:android:67f1fc1a4de8b4e936c9d1",
+        "android_client_info": {
+          "package_name": "ru.mirea.kachalov.mushroomfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkAU62b2Vtg5ojmY_PmyTch4gkwyUxeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

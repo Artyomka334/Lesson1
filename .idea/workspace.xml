@@ -4,123 +4,57 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="Practice 8 and MireaProject 8">
-      <change afterPath="$PROJECT_DIR$/MovieProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/androidTest/java/ru/mirea/kachalov/Lesson9/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/data/repository/MovieRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/domain/models/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/domain/repository/MovieRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/domain/usecases/GetFavoriteFilmUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/domain/usecases/SaveMovieToFavoriteUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/presentation/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/app/src/test/java/ru/mirea/kachalov/Lesson9/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieProject/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/androidTest/java/ru/mirea/kachalov/mushroomfinder/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/data/repository/AccountRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/data/repository/FavouritesRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/data/repository/MushroomRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/data/repository/WeatherRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/models/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/repository/AccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/repository/FavouritesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/repository/MushroomRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/repository/WeatherRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/AddToFavoritesUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/AnalyzeImageWithModelUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/ChangeUserInfoUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/GetCurrentWeatherUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/GetFavoritesUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/GetMushroomInfoUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/GetWeatherForecastUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/IdentifyMushroomUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/LoadAllMushroomsUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/LogInUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/LogOutUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/RegisterUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/RemoveFromFavoritesUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/domain/usecases/SortMushroomsByEdibilityUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/presentation/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/app/src/test/java/ru/mirea/kachalov/mushroomfinder/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MushroomFinder/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="Practice 9 and MushroomFinder">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/androidTest/java/ru/mirea/kachalov/Lesson9/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/data/repository/MovieRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/domain/models/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/domain/repository/MovieRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/domain/usecases/GetFavoriteFilmUseCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/domain/usecases/SaveMovieToFavoriteUseCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/java/ru/mirea/kachalov/Lesson9/presentation/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/app/src/test/java/ru/mirea/kachalov/Lesson9/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieProject/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +98,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/Lesson1"
+    "last_opened_file_path": "F:/Lesson1/Lesson10"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -248,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715277726162</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Practice 9 and MushroomFinder">
+      <option name="closed" value="true" />
+      <created>1728063072806</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728063072806</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,6 +203,7 @@
     <MESSAGE value="MireaProject 6" />
     <MESSAGE value="Practice 7 and MireaProject 7" />
     <MESSAGE value="Practice 8 and MireaProject 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice 8 and MireaProject 8" />
+    <MESSAGE value="Practice 9 and MushroomFinder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice 9 and MushroomFinder" />
   </component>
 </project>
