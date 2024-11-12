@@ -1,5 +1,8 @@
 package ru.mirea.kachalov.domain.usecases;
 
+import java.util.List;
+
+import ru.mirea.kachalov.domain.ApiCallback;
 import ru.mirea.kachalov.domain.models.Mushroom;
 import ru.mirea.kachalov.domain.repository.MushroomRepository;
 
@@ -10,7 +13,7 @@ public class LoadAllMushroomsUseCase {
         this.mushroomRepository = mushroomRepository;
     }
 
-    public Mushroom[] execute() {
-        return mushroomRepository.loadAllMushrooms();
+    public void execute(ApiCallback<List<Mushroom>> apiCallback) {
+        mushroomRepository.loadAllMushrooms(apiCallback);
     }
 }

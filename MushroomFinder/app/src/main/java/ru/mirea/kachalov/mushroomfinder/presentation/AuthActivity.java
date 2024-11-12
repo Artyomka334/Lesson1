@@ -18,11 +18,14 @@ import ru.mirea.kachalov.data.firebase.AuthController;
 import ru.mirea.kachalov.data.firebase.FirebaseAuthController;
 import ru.mirea.kachalov.data.repository.AccountRepositoryImpl;
 import ru.mirea.kachalov.domain.AuthorizationCallback;
+import ru.mirea.kachalov.domain.usecases.authorization.HasUserLoggedUseCase;
 import ru.mirea.kachalov.domain.usecases.authorization.LogInUseCase;
 import ru.mirea.kachalov.domain.usecases.authorization.RegisterUseCase;
 import ru.mirea.kachalov.mushroomfinder.R;
 
 public class AuthActivity extends AppCompatActivity {
+
+    private HasUserLoggedUseCase hasUserLoggedUseCase;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,6 +47,7 @@ public class AuthActivity extends AppCompatActivity {
         AccountRepositoryImpl accountRepository = new AccountRepositoryImpl(firebaseAuthController);
         LogInUseCase logInUseCase = new LogInUseCase(accountRepository);
         RegisterUseCase registerUseCase = new RegisterUseCase(accountRepository);
+        hasUserLoggedUseCase = new HasUserLoggedUseCase(accountRepository);
 
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -92,5 +96,13 @@ public class AuthActivity extends AppCompatActivity {
                 }
             }
         });
+
+        checkAuthorized();
+    }
+
+    private void checkAuthorized() {
+        if (hasUserLoggedUseCase.execute()) {
+            startActivity(new Intent(getApplicationContext(), MainActivity.class));
+        }
     }
 }

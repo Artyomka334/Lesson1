@@ -17,8 +17,6 @@ public class FavouritesRepositoryImpl implements FavouritesRepository {
 
     @Override
     public Mushroom[] getFavourites() {
-        return new Mushroom[]{
-                new Mushroom(1, "Boletus", true)
-        };
+        return new Mushroom[]{};
     }
 }
