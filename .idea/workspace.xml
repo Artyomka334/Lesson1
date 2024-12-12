@@ -4,112 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="readme added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/google-services.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/androidTest/java/ru/mirea/kachalov/mushroomfinder/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/presentation/AuthActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/presentation/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/presentation/recViews/MainMushroomsRecAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/presentation/recViews/MainMushroomsViewHolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/presentation/viewModels/MainActivityViewModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/java/ru/mirea/kachalov/mushroomfinder/presentation/viewModels/MainActivityViewModelFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/layout/activity_auth.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/layout/mushroom_item.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/app/src/test/java/ru/mirea/kachalov/mushroomfinder/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/consumer-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/androidTest/java/ru/mirea/kachalov/data/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/api/DataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/api/MushroomApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/firebase/AuthController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/firebase/FirebaseAuthController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/firebase/FirebaseCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/repository/AccountRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/repository/FavouritesRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/repository/MushroomRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/repository/WeatherRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/room/MushroomDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/room/MushroomsDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/room/MushroomsDBController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/room/RoomMushroomsDBController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/room/models/Mushroom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/storage/AccountStorage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/storage/models/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/main/java/ru/mirea/kachalov/data/storage/sharedprefs/SharedPrefAccountStorage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/data/src/test/java/ru/mirea/kachalov/data/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/ApiCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/AuthorizationCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/models/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/models/Mushroom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/repository/AccountRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/repository/FavouritesRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/repository/MushroomRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/repository/WeatherRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/AddToFavoritesUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/AnalyzeImageWithModelUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/ChangeUserInfoUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/GetCurrentWeatherUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/GetFavoritesUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/GetMushroomInfoUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/GetWeatherForecastUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/IdentifyMushroomUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/LoadAllMushroomsUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/RemoveFromFavoritesUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/SortMushroomsByEdibilityUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/authorization/HasUserLoggedUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/authorization/LogInUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/authorization/LogOutUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/domain/src/main/java/ru/mirea/kachalov/domain/usecases/authorization/RegisterUseCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MushroomFinder/settings.gradle" beforeDir="false" />
-    </list>
+    <list default="true" id="a8eb1ed0-3ae6-4f46-8dbb-a531e630e494" name="Changes" comment="Lesson 14 + MushroomFinder update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -279,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731957750239</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Lesson 14 + MushroomFinder update">
+      <option name="closed" value="true" />
+      <created>1734034374592</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734034374592</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Lesson 14 + MushroomFinder update">
+      <option name="closed" value="true" />
+      <created>1734034521800</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1734034521800</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,6 +208,7 @@
     <MESSAGE value="Lesson 11, Lesson 12, MushroomFinder" />
     <MESSAGE value="Lesson 13" />
     <MESSAGE value="readme added" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme added" />
+    <MESSAGE value="Lesson 14 + MushroomFinder update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 14 + MushroomFinder update" />
   </component>
 </project>
