@@ -10,6 +10,7 @@
 Практика 11 | 🟢 | <a href="https://github.com/Artyomka334/Lesson1/tree/master/Lesson11">Практика</a> <a href="https://github.com/Artyomka334/Lesson1/tree/master/MushroomFinder"> Mushroom Finder </a>
 Практика 12 | 🟢 | <a href="https://github.com/Artyomka334/Lesson1/tree/master/Lesson12">Практика</a> <a href="https://github.com/Artyomka334/Lesson1/tree/master/MushroomFinder"> Mushroom Finder </a> <a href="https://github.com/Artyomka334/Lesson1/blob/master/Lesson12/README.md">Файлы к практике</a>
 Практика 13 | 🟢 | <a href="https://github.com/Artyomka334/Lesson1/tree/master/Lesson13">Практика</a> <a href="https://github.com/Artyomka334/Lesson1/tree/master/MushroomFinder"> Mushroom Finder </a>
+Практика 14 | 🟡 | <a href="https://github.com/Artyomka334/Lesson1/tree/master/Lesson14">Практика</a> <a href="https://github.com/Artyomka334/Lesson1/tree/master/MushroomFinder"> Mushroom Finder </a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
